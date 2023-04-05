@@ -1,0 +1,52 @@
+html, body {
+	font-family:Helvetica, Arial, sans-serif;
+}
+
+img{
+	max-height:300px;
+}
+
+.testo_01{
+	font-family: calibri;
+	color: grey;
+	font-size: 44px;
+}
+
+.testo_22{
+	font-family: calibri;
+	color: grey;
+	font-size: 22px;
+}
+.testo_20{
+	font-family: calibri;
+	color: grey;
+	font-size: 20px;
+}
+.testo_18{
+	font-family: calibri;
+	color: grey;
+	font-size: 18px;
+}
+.testo_16{
+	font-family: calibri;
+	color: grey;
+	font-size: 16px;
+}
+.testo_14{
+	font-family: calibri;
+	color: grey;
+	font-size: 14px;
+}
+
+
+.testo_gnss_titolo{
+	font-family: calibri;
+	color: blue; 
+	font-size: 2.5em;
+}
+
+.testo_gnss_corpo{
+	font-family: calibri;
+	color: grey; 
+	font-size: 1.5em;
+}
