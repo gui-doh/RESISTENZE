@@ -1,10 +1,11 @@
 0_NOME;file_audio;TITOLO;X;Y;CATEGORIA;tenere;AUTORE;Immagine;Testo;Icona;tenere_buoni_mp3
-01_PARCO_PARRI;none;Testimonianza di lotta libertà e pace nel nome della resistenza;8.8518999516964;45.3157274368169;1;0;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;0
+01_PARCO_PARRI;ZOOM0011_parco_parri.mp3;Testimonianza di lotta, libertà e pace nel nome della resistenza;8.8518999516964;45.3157274368169;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;0
 02_VIA_DEL_POPOLO_PIETRA;ZOOM0002_via_del_popolo.mp3;Pietra d’inciampo Anna Botto;8.85581195354462;45.3166090900776;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
-03_CASTELLO_LAPIDE_GAZZO;ZOOM0003_gazzo.mp3;Fucilazione di Carlo Gazzo;8.85633364319802;45.3161573675983;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
+03_CASTELLO_LAPIDE_GAZZO;ZOOM0003_gazzo.mp3;Fucilazione di Carlo Gazzo, Giovanni Profili, Salvatore Frascona;8.85633364319802;45.3161573675983;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 04_CASTELLO_LAPIDE_LEONI;ZOOM0004_leoni.mp3;Fucilazione di Giovanni Leoni;8.85663539171219;45.3165836277371;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 05_SAN_DIONIGI_LAPIDI;ZOOM0005_san_dionigi_lapidi_v02.mp3;Piazza martiri della Liberazione;8.85887637734413;45.3183527616524;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 06_SAN_DIONIGI_PIETRE;ZOOM0006_san_dionigi_pietre.mp3;Pietre d’inciampo Ermes Testori e Santino Bonafin;8.85885626077652;45.3183084396756;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 07_CAIROLI_FUORI_PIETRA;ZOOM0007_cairoli_pietra.mp3;Pietra d’inciampo Teresio Olivelli;8.85942488908768;45.3142665068648;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 08_STAZIONE;ZOOM0008_stazione_dei_treni.mp3;La stazione, luogo della battaglia del treno;8.86206418275833;45.3127707488938;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 09_CSO_GENOVA;ZOOM0010_cso_genova.mp3;Lapide a Teresio Olivelli;8.85309487581253;45.306211959457;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
+10_VVF;ZOOM0012_vvf.mp3;Caserma dei Vigili del fuoco;8.85598361492157;45.3226263689976;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
