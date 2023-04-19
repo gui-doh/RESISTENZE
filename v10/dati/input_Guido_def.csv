@@ -1,5 +1,5 @@
 0_NOME;file_audio;TITOLO;X;Y;CATEGORIA;tenere;AUTORE;Immagine;Testo;Icona;tenere_buoni_mp3
-01_PARCO_PARRI;ZOOM0011_parco_parri.mp3;Testimonianza di lotta, libertà e pace nel nome della resistenza;8.8518999516964;45.3157274368169;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;0
+01_PARCO_PARRI;ZOOM0011_parco_parri.mp3;Testimonianza di lotta, libertà e pace nel nome della resistenza;8.8518999516964;45.3157274368169;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 02_VIA_DEL_POPOLO_PIETRA;ZOOM0002_via_del_popolo.mp3;Pietra d’inciampo Anna Botto;8.85581195354462;45.3166090900776;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 03_CASTELLO_LAPIDE_GAZZO;ZOOM0003_gazzo.mp3;Fucilazione di Carlo Gazzo, Giovanni Profili, Salvatore Frascona;8.85633364319802;45.3161573675983;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 04_CASTELLO_LAPIDE_LEONI;ZOOM0004_leoni.mp3;Fucilazione di Giovanni Leoni;8.85663539171219;45.3165836277371;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
@@ -9,3 +9,9 @@
 08_STAZIONE;ZOOM0008_stazione_dei_treni.mp3;La stazione, luogo della battaglia del treno;8.86206418275833;45.3127707488938;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 09_CSO_GENOVA;ZOOM0010_cso_genova.mp3;Lapide a Teresio Olivelli;8.85309487581253;45.306211959457;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
 10_VVF;ZOOM0012_vvf.mp3;Caserma dei Vigili del fuoco;8.85598361492157;45.3226263689976;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
+11_PONTE;ZOOM0024_elab-converted.mp3;Ponte sul Ticino;8.879753351;45.34097602;1;1;GUIDO;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
+12_CIMITERO_ESTERNO;lapide_luigi_malandra_cimitero_muro_esterno.mp3;Lapide a Luigi Malandra;8.867916;45.326333;1;1;ALICE;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
+13_CIMITERO_INTERNO;sacrario_interno_cimitero_45.328766_08.867950.mp3;Sacrario;8.86795;45.328766;1;1;ALICE;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
+14_SCALONE_LICEO;lapide_olivelli_teresio_scalone_liceo.mp3;Lapide a Teresio Olivelli;8.85922104120255;45.3143004580377;1;1;ALICE;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
+15_REGINA_MARGHERITA;regina_margherita_targa_Anna_Botto.mp3;Lapide a Anna Botto;8.86152774095536;45.319111888001;1;1;ALICE;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
+16_BOSELLI;volo cigni lapide boselli-converted.mp3;Cippo Pierino Boselli nei boschi del Ticino;8.934166;45.3029;1;1;ALICE;1;0;https://gui-doh.github.io/RESISTENZE/v10/images/raised-fist_270a.png;1
