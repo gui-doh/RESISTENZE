@@ -441,13 +441,13 @@ marker_b531ecb635b746cab84082a483faa3fc.on('click', function (e) {this.openPopup
                     crs: L.CRS.EPSG3857,
                     maxBounds: [[45.151245, 8.692102], [45.483245, 9.024102000000001]],
                     zoom: 12,
-                    zoomControl: true,
+                    zoomControl: false,
                     preferCanvas: false,
 					layers:[Luogo_della_Memoria]
                 }
             );
 
-
+            L.control.zoom({position: 'topright'}).addTo(map_2028d453e4d04be39002f7e87a505b85);
 
 
 
@@ -461,7 +461,7 @@ var tile_layer_2 = L.tileLayer("http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z
 </script><script>
 var baselayers = {"Satellite" : tile_layer_2, "Mappa" :tile_layer_aef761eb0a434446925a784927fd17b7}
 </script><script>
-layerControl = L.control.layers(baselayers, overlayGroups, {position: 'topleft'} ,{collapsed: true}).addTo(map_2028d453e4d04be39002f7e87a505b85);
+layerControl = L.control.layers(baselayers, overlayGroups, {position: 'topright'} ,{collapsed: true}).addTo(map_2028d453e4d04be39002f7e87a505b85);
 </script>
 <script>
             // qui è tutto nuovo
